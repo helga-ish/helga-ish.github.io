@@ -53,5 +53,5 @@ body {
 }
 
 img:hover {
-    content: url('file:///Users/girl/Documents/linktree-project/picpic2.png');
+    content: url('./picpic2.png');
 }
